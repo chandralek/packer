@@ -2,7 +2,7 @@
   "builders": [{
     "type": "amazon-ebs",
     "region": "us-west-2",
-    "source_ami": "ami-0777ff5c030fe1d38",
+    "source_ami": "ami-0d2916f75ba702fce",
     "instance_type": "t3.micro",
     "ssh_username": "centos",
     "ami_groups": "all",
